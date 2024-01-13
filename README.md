@@ -1,5 +1,9 @@
-# Modal_Javascript
+# Modal javascript
 
-## Modal Simples feito com HTML, CSS e JAVASCRIPT
+## tecnologias utilizadas:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![image](https://user-images.githubusercontent.com/63453751/197348047-b04f96eb-f71e-46db-8281-034645f29971.png)
